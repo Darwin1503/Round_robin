@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Round_robin</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">BIENVENIDO AL SIMULADOR </string>
+    <string name="BotonTeoria">TEORIA</string>
+    <string name="BotonFuncionalidad">FUNCIONALIDAD</string>
+    <string name="BotonCreditos">CREDITOS</string>
+    <string name="tv2">TEORIA</string>
+</resources>
